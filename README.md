@@ -1,6 +1,6 @@
 # web-dev
 
-https://bhusawant.github.io/Projects/
+https://bhusawant.github.io/web-dev/
 
 
 
